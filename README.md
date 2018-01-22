@@ -8,3 +8,5 @@ for this version, I only include simple raw html and css design, and uses the AP
 we'll develop a more accurate gacha system in the next updates!
 
 https://sifgachables.000webhostapp.com/index.html
+
+![sample screenshot](https://imgur.com/gallery/9Tiqd)
