@@ -9,4 +9,4 @@ we'll develop a more accurate gacha system in the next updates!
 
 https://sifgachables.000webhostapp.com/index.html
 
-![sample screenshot](https://imgur.com/gallery/9Tiqd)
+![sample screenshot](https://i.imgur.com/ev9R6NE.png)
